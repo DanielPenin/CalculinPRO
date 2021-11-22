@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculin PRO</string>
+    <string name="Calculator">計算器</string>
+    <string name="clear">清除</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="add">加</string>
+    <string name="multiply">乘</string>
+    <string name="divide">除</string>
+    <string name="dot">.</string>
+    <string name="sub">減</string>
+    <string name="equal">平等的</string>
+</resources>
